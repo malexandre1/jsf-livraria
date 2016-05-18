@@ -1,6 +1,8 @@
-package br.com.malexandre.livraria.bran;
+package br.com.malexandre.livraria.bean;
 
 import javax.faces.bean.ManagedBean;
+
+import br.com.malexandre.livraria.modelo.Livro;
 
 @ManagedBean
 public class LivroBean {
